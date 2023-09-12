@@ -28,7 +28,7 @@
 
 Гуляев Егор Романович
 
-Друк Егор Александрович
+Друк Егор Александрович  https://github.com/WolfffR/RTU_Study
 
 Егоров Денис Валерьевич   https://github.com/DenverRin/Egorov/blob/main/README.md
 
