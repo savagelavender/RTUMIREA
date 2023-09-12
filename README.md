@@ -64,6 +64,6 @@
 
 Филимонова Вероника Викторовна
 
-Шкутник Иван Александрович
+Шкутник Иван Александрович https://github.com/etrnldspr/mirea
 
 Юдин Александр Алексеевич   https://github.com/AlexanderYudinAlexeevich/storage_Yudin
