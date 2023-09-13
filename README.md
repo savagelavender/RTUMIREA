@@ -4,7 +4,7 @@
 
 Адамович Иван Олегович   https://github.com/AdamowiczEone/AdamowiczEone
 
-Акаев Амир Тимур Шахбанович
+Акаев Амир Тимур Шахбанович  https://github.com/t1mik/Akaev_AmirTimur#akaev_amirtimur
 
 Антюхова Анастасия Евгеньевна   https://github.com/weweump/weweump1
 
