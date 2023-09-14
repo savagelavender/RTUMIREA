@@ -62,7 +62,7 @@
 
 Торосян Джеймс Артурович   https://github.com/JmsJohnson/James.git
 
-Филимонова Вероника Викторовна
+Филимонова Вероника Викторовна  https://github.com/veronika200206/Veronika
 
 Шкутник Иван Александрович https://github.com/etrnldspr/mirea
 
