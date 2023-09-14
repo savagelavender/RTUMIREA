@@ -40,7 +40,7 @@
 
 Кочуркова Алина Владимировна  https://github.com/savagelavender/savage_lavender
 
-Лившиц Андрей Евгеньевич
+Лившиц Андрей Евгеньевич  https://github.com/Dojya-n/mirea_proga
 
 Лукина Марфа Павловна
 
