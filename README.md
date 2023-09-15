@@ -16,7 +16,7 @@
 
 Богданович Александр Константинович
 
-Бойко Алексей Вячеславович
+Бойко Алексей Вячеславович https://github.com/A1exBoy/boykoalex
 
 Бузмаков Ярослав Анатольевич  https://github.com/yarikmodniiik/kotiki.git
 
