@@ -14,8 +14,6 @@
 
 Бамбак Евгений Александрович   https://github.com/bambak2/mpb041
 
-Богданович Александр Константинович
-
 Бойко Алексей Вячеславович https://github.com/A1exBoy/boykoalex
 
 Бузмаков Ярослав Анатольевич  https://github.com/yarikmodniiik/kotiki.git
@@ -24,9 +22,7 @@
 
 Валиуллова Луиза Рустемовна   https://github.com/Luiza100000/Uni_firstcourseLu
 
-Вишняков Александр Александрович
-
-Гуляев Егор Романович
+Вишняков Александр Александрович  https://github.com/Akriil/Julia-Tasks-Vishnyakov
 
 Друк Егор Александрович  https://github.com/WolfffR/RTU_Study
 
