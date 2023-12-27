@@ -38,7 +38,7 @@
 
 Лившиц Андрей Евгеньевич  https://github.com/Dojya-n/mirea_proga
 
-Лукина Марфа Павловна
+Лукина Марфа Павловна  https://github.com/rearden1024/-/tree/main
 
 Макаров Михаил Вячеславович   https://github.com/mishgancheg/MIREA-Inf 
 
